@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **decmoon05/decmoon05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+- 충남대학교 컴퓨터융합학부,사이버보안(복수전공) 학부생 2학년
+- 
+- 육군정보통신학교 전술 C4I 운용/정비 조교 병장 만기전역
+- 군 작전 교육 영상 제작 학교장상 수상
+- 정보처리 기능사
+- 2024 제 11회 군창업경진대회참여
+  https://www.notion.so/cac/7f47635f79ee4adaa2f4f0f76dd7f533
+- 2025.02 보안교육
+- 2025.07 COSS 글로벌 사이버 프론티어 미국 단기교육연수
+- 2025.09 대전 AI,ICT 기업 리서치 및 아이디어 챌린지 장려상 수상
